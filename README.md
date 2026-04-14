@@ -204,4 +204,4 @@ Labels:
 
 **Berke Arda Türk**  
 Data Science & AI Enthusiast | Computer Science (B.ASc)  
-[🌐 Portfolio Website](https://berke-turk.web.app/) • [💼 LinkedIn](https://www.linkedin.com/in/berke-arda-turk/) • [🐙 GitHub](https://github.com/Mood07)
+[🌐 Portfolio Website](https://berkeardaturk.com) • [💼 LinkedIn](https://www.linkedin.com/in/berke-arda-turk/) • [🐙 GitHub](https://github.com/Mood07)
